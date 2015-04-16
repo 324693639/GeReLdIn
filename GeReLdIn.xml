@@ -50,7 +50,7 @@
                                 </value>
                                 <value name="B">
                                   <block type="math_number" id="301">
-                                    <field name="NUM">540</field>
+                                    <field name="NUM">13</field>
                                   </block>
                                 </value>
                               </block>
